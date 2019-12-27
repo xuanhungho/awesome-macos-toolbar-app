@@ -3,7 +3,7 @@
 # Open in Visual Studio Code
 A Finder toolbar icon to open current selected file/folder with VS Code.
 
-![](/demo.gif)
+![](https://github.com/hamxiaoz/open-folder-with-vs-code/blob/master/demo.gif)
 
 ## How to use?
 - Download [the zip file](https://github.com/hamxiaoz/open-folder-with-vs-code/raw/master/Open%20in%20VS%20Code.app.zip)
