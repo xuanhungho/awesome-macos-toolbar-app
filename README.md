@@ -1,5 +1,4 @@
-# awesome-macos-toolbar-app
-; ; Open Terminal here
+# Awesome-macos-toolbar-app
 
 # Open in Visual Studio Code
 A Finder toolbar icon to open current selected file/folder with VS Code.
