@@ -97,3 +97,5 @@ end subl
 | Open current directory in Terminal (or Editor) | ![](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/screenshots/main-open-in-terminal.gif) |
 | Open selected folder or file in Terminal (or Editor) | ![](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/screenshots/main-open-in-editor.gif) |
 | Copy path of the selected file or Finder window to Clipboard | ![](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/screenshots/main-copy-path-to-clipboard.gif) |
+
+### Update: https://github.com/Ji4n1ng/OpenInTerminal
